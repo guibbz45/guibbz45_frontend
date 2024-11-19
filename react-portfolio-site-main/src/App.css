@@ -1,0 +1,8 @@
+body {
+  /* background-image: url('https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; */
+
+  background: rgb(128,125,125);
+  background: linear-gradient(42deg, rgba(128,125,125,0.9458377100840336) 15%, rgba(88,88,143,1) 60%, rgba(61,159,180,1) 100%);
+}
